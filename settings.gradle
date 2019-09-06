@@ -1,0 +1,2 @@
+include ':kt-app', ':java-app'
+rootProject.name='Meli Kotlin Meetup'
